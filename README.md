@@ -1,1 +1,46 @@
-# CP3-Web-Portifolio
+# 🚀 Portifolio-CP3-Web
+
+Portfólio pessoal de **Matheus von Koss Wildeisen**, estudante de Engenharia de Software na FIAP e desenvolvedor full-stack. Este projeto foi criado com React, TypeScript e Vite, com layout moderno e identidade visual única.
+
+## ✨ Sobre Mim
+
+Sou apaixonado por tecnologia e desenvolvimento full-stack. Desde cedo me interessei por criar soluções que conectam o mundo físico ao digital, explorando áreas como IoT, Front-end moderno e sistemas inteligentes.
+
+## 🧠 Skills
+
+### Frontend
+HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, React
+
+### Backend
+Java, Spring Boot, Node.js, Python, Rust, C
+
+### DevOps
+Git, Bash, Docker, Arduino
+
+## 📚 Formação
+
+- Engenharia de Software – FIAP (Cursando 1º ano)
+- Local: São Paulo, BR
+
+## 🛠 Tecnologias
+
+- React + TypeScript
+- Vite
+- CSS Modules
+- Componentização modular
+
+## 📁 Projetos
+
+- [CP5-Edge-Computing](https://github.com/matheuswildeisen/CP5-Edge-Computing)
+- [GS-Front-End](https://github.com/matheuswildeisen/GS-Front-End)
+
+## 📬 Contato
+
+- Email: wildeisenmatheus@gmail.com
+- Localização: São Paulo, BR
+
+## 🚀 Como rodar
+
+```bash
+npm install
+npm run dev
