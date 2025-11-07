@@ -1,10 +1,6 @@
 # 🚀 Portifolio-CP3-Web
 
-Portfólio pessoal de **Matheus von Koss Wildeisen**, estudante de Engenharia de Software na FIAP e desenvolvedor full-stack. Este projeto foi criado com React, TypeScript e Vite, com layout moderno e identidade visual única.
-
-## ✨ Sobre Mim
-
-Sou apaixonado por tecnologia e desenvolvimento full-stack. Desde cedo me interessei por criar soluções que conectam o mundo físico ao digital, explorando áreas como IoT, Front-end moderno e sistemas inteligentes.
+Portfólio pessoal de **Matheus von Koss Wildeisen**, estudante de Engenharia de Software na FIAP e desenvolvedor em aprendizagem. Este projeto foi criado com React, TypeScript e Vite, com layout moderno e identidade visual única.
 
 ## 🧠 Skills
 
@@ -12,7 +8,7 @@ Sou apaixonado por tecnologia e desenvolvimento full-stack. Desde cedo me intere
 HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, React
 
 ### Backend
-Java, Spring Boot, Node.js, Python, Rust, C
+Java, Node.js, Python,
 
 ### DevOps
 Git, Bash, Docker, Arduino
