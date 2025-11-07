@@ -59,6 +59,13 @@ body{
 .hero-center{display:flex;flex-direction:column;align-items:center}
 .hero-name{max-width:160px;text-align:center;font-weight:600;margin-top:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .hero-name-top{max-width:160px;text-align:center;font-weight:700;margin-bottom:10px;font-size:1.05rem}
+.hero-description {
+  max-width: 600px;
+  margin: 24px auto;
+  text-align: center;
+  color: var(--muted);
+  line-height: 1.6;
+}
 
 @media (max-width:600px){
   .hero-name{max-width:110px;font-size:0.95rem}

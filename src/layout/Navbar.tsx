@@ -1,22 +1,23 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
     <header className="topbar">
       <div className="topbar-inner container">
-        <a className="brand" href="#hero">
+        <Link className="brand" to="/">
           <img src="/assets/perfil.jpeg" alt="logo" className="brand-img" />
           <span className="brand-text">Matheus</span>
-        </a>
+        </Link>
 
         <nav className="nav">
           <ul className="nav-links">
-            <li><a href="#hero">Início</a></li>
-            <li><a href="#bio">Sobre</a></li>
-            <li><a href="#education">Formação</a></li>
-            <li><a href="#projects">Projetos</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#contact">Contato</a></li>
+            <li><Link to="/">Início</Link></li>
+            <li><Link to="/sobre">Sobre</Link></li>
+            <li><Link to="/formacao">Formação</Link></li>
+            <li><Link to="/projetos">Projetos</Link></li>
+            <li><Link to="/skills">Skills</Link></li>
+            <li><Link to="/contato">Contato</Link></li>
           </ul>
         </nav>
       </div>

@@ -7,8 +7,12 @@ export default function Hero() {
         <div className="hero-name-top">Matheus von Koss Wildeisen</div>
         <img src="/assets/perfil.jpeg" alt="Foto de Matheus Wilde" className="hero-img" />
       </div>
-      <h2>Full-Stack Developer</h2>
+      <h2>Estudante</h2>
       <p>Frontend • Backend • IoT • DevOps</p>
+      <p className="hero-description">
+        Transformando ideias em soluções digitais inovadoras.
+        Explore meu portfólio e descubra mais sobre meu trabalho.
+      </p>
     </section>
   );
 }

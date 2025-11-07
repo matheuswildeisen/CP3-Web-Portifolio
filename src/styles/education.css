@@ -1,0 +1,92 @@
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+  padding: 24px 0;
+}
+
+.education-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 24px;
+  transition: transform 0.2s;
+}
+
+.education-card:hover {
+  transform: translateY(-4px);
+}
+
+.education-card h3 {
+  color: var(--accent);
+  margin-bottom: 16px;
+  font-size: 1.2rem;
+}
+
+.education-card .institution {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.education-card .period {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 16px;
+}
+
+.education-card .description {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.education-card .skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.education-card .skill-tag {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 4px 12px;
+  border-radius: 16px;
+  font-size: 0.9rem;
+}
+
+.certifications {
+  margin-top: 48px;
+}
+
+.certification-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.certification-item {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 16px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.certification-item .cert-icon {
+  font-size: 24px;
+  color: var(--accent);
+}
+
+.certification-item .cert-info {
+  flex: 1;
+}
+
+.certification-item .cert-name {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.certification-item .cert-issuer {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
