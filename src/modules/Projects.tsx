@@ -22,7 +22,7 @@ export default function Projects() {
       repoLink: 'https://github.com/matheuswildeisen/CP5-Edge-Computing',
       demoLink: 'https://www.youtube.com/watch?v=demo1',
       status: 'Concluído',
-      date: 'Out 2024',
+      date: 'Abril 2025',
       techStack: ['ESP32', 'MQTT', 'Python', 'Node.js', 'React', 'Arduino'],
       features: [
         'Monitoramento em tempo real de temperatura e umidade',
@@ -38,7 +38,7 @@ export default function Projects() {
       repoLink: 'https://github.com/matheuswildeisen/GS-Front-End',
       demoLink: 'https://www.youtube.com/watch?v=demo2',
       status: 'Concluído',
-      date: 'Set 2024',
+      date: 'Junho 2025',
       techStack: ['HTML5', 'CSS3', 'JavaScript', 'React', 'Tailwind CSS'],
       features: [
         'Layout totalmente responsivo',
@@ -53,7 +53,7 @@ export default function Projects() {
       longDescription: 'Desenvolvimento do meu site pessoal e portfólio utilizando React e TypeScript. O projeto apresenta minha experiência, habilidades e projetos de forma interativa.',
       repoLink: 'https://github.com/matheuswildeisen/CP3-Web-Portifolio',
       status: 'Em desenvolvimento',
-      date: 'Nov 2024',
+      date: 'Nov 2025',
       techStack: ['React', 'TypeScript', 'CSS3', 'Vite'],
       features: [
         'Design moderno e minimalista',
